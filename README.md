@@ -6,4 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Issues
 
-- Failed to deploy Next.js due to `bcrypt`, solution is changing to `bcryptjs`
+- Failed to deploy Next.js due to `bcrypt`, solution is changing to `bcryptjs`: [reference](https://github.com/vercel/next.js/discussions/76822#discussioncomment-12411805)
